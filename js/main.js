@@ -33,7 +33,7 @@ var createVisualization = function(data) {
 	// Step 3: Create linear scales by using the D3 scale functions
 	// You will need an songs scale (x-axis) and a scale function for the streams (y-axis).
 	// Call them numSongsScale and streamsScale.
-	// Use d3.min() and d3.max() for the input domain
+	// Use d3.min() and d3.max() (or d3.extent()) for the input domain
 	// Use the variables height and width for the output range
 
 
