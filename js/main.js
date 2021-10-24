@@ -3,7 +3,7 @@
 var width = 700,
 	height = 500;
 
-var regions = [];
+var genre = [];
 
 
 // Load CSV file
@@ -20,7 +20,7 @@ var prepareData = function(data) {
 	// Step 1: Analyze and prepare the data
 	// Use the web console to get a better idea of the dataset
 	// Convert numeric values to numbers.
-	// Make sure the regions array has the name of each region
+	// Make sure the genres array has the name of each genre
 
 }
 
