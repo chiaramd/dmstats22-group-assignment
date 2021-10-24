@@ -27,7 +27,7 @@ var prepareData = function(data) {
 var createVisualization = function(data) {
 	// Step 2: Append a new SVG area with D3
 	// The ID of the target div container in the html file is #chart-area
-	// Use the margin convention with 50 px of bottom padding and 30 px of padding on other sides!
+	// Use the margin convention with 50 px of bottom margin and 30 px of margin on other sides!
 
 
 	// Step 3: Create linear scales by using the D3 scale functions
