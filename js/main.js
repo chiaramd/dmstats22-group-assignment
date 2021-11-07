@@ -5,6 +5,7 @@ var width = 700,
 
 var genre = [];
 
+// Hi
 
 // Load CSV file
 d3.csv("data/spotify_data.csv", function(data){
